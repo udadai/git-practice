@@ -3,6 +3,14 @@
 
 이 프로젝트는 git을 연습하기 위한 저장소입니다.
 
+### Reference
+
+```shell
+$ git status
+$ git add {파일경로}
+$ git commit
+```
+
 
 See [Demo](https://www.google.com/)
 
